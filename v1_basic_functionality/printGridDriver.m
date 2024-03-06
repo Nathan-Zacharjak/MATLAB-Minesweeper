@@ -38,3 +38,5 @@ fprintf("Test 6: single number input. \nExpect [41] to be printed.\n");
 grid = 41;
 printGrid(grid);
 fprintf("\n");
+
+// test
